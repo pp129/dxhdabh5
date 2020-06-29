@@ -7,16 +7,16 @@
 <script>
 export default {
   name: 'index',
-    data () {
-      return{
-          value: ''
-      }
-    },
-    methods: {
-        result() {
-
-        }
+  data () {
+    return {
+      value: ''
     }
+  },
+  methods: {
+    result () {
+
+    }
+  }
 }
 </script>
 
